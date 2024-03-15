@@ -1,1 +1,0 @@
-# A2SV_competitive_programming
